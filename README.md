@@ -1,4 +1,4 @@
-# Fart Joke Generator 🌬️
+# Fart Joke Generator 💨
 
 <p align="center">
   <img width="700" alt="truth_terminal_dialogue" src="https://github.com/user-attachments/assets/af875e47-a463-4a11-aaee-32f93bac56ca" />
